@@ -1,0 +1,36 @@
+{
+  "name": "alexaworld-skilldebugger",
+  "version": "1.0.0",
+  "description": "Debug nodejs alexa skills on your local development environment.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaWorld/SkillDebugger.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "alexa",
+    "alexa",
+    "skills",
+    "skill",
+    "debug",
+    "alexa",
+    "skill",
+    "debugger",
+    "skill",
+    "debugging"
+  ],
+  "author": "Peter Ullrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexaWorld/SkillDebugger/issues"
+  },
+  "homepage": "https://github.com/AlexaWorld/SkillDebugger#readme"
+}
