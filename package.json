@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-skilldebugger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Debug nodejs alexa skills on your local development environment.",
   "main": "index.js",
   "directories": {
