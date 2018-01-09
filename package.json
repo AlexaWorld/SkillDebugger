@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/AlexaWorld/SkillDebugger/issues"
   },
-  "homepage": "https://github.com/AlexaWorld/SkillDebugger#readme"
+  "homepage": "https://github.com/AlexaWorld/SkillDebugger#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.178.0"
+  }
 }
